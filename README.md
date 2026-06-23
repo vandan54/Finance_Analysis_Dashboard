@@ -41,4 +41,3 @@ A granular tabular view allowing financial analysts to drill down into individua
 *   `customers.csv` — Customer profile mapping and geographic segmentation data.
 *   `Pending transaction.csv` — Unresolved entries for risk tracking.
 *   `Business Requirements.docx` — Project roadmap and stakeholder alignment documentation.
-*
